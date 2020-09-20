@@ -15,6 +15,8 @@
 </h4>
 <br />
 <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlosdiver/proffy?style=plastic">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/carlosdiver/proffy?style=plastic">  
   <a href="https://www.linkedin.com/in/carlos-silva-devs/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Carlos%20Eduardo-63C2D1">
   </a>  
@@ -24,15 +26,14 @@
 ## 🎨 Layout Web
 
 <p align="center">
-    <img alt="Proffy" title="#Proffy" src=".screenshots/web_capa.png" width="300px" />
-    <img alt="Proffy" title="#Proffy" src=".screenshots/web_1.png" width="300px" />
+    <img alt="Proffy" title="#Proffy" src=".screenshots/web_capa.png" width="300px" height="200px" />
+    <img alt="Proffy" title="#Proffy" src=".screenshots/web_1.png" width="300px" height="200px" />
 </p>
 
 ## 🎨 Layout Mobile
 
 <p align="center">
     <img alt="Proffy" title="#Proffy" src=".screenshots/app_capa.png" width="200px" />
-    <img alt="Proffy" title="#Proffy" src=".screenshots/app_1.png" width="200px" />
     <img alt="Proffy" title="#Proffy" src=".screenshots/app_2.png" width="200px" />
     <img alt="Proffy" title="#Proffy" src=".screenshots/app_3.png" width="200px" />
     <img alt="Proffy" title="#Proffy" src=".screenshots/app_4.png" width="200px" />
